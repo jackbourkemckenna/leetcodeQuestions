@@ -56,5 +56,19 @@ namespace EasyQuestions.Test
             //assert
             Assert.Equal(expected, easyQuestions.MaxProfit(prices).ToString());
         }
+
+        [Fact]
+        public void TwoSum()
+        {
+            //arrage
+            //TODO: make random input not predefined 
+            int[] prices = new int[] { 3,2,4 };
+            var target = 6; 
+            //act 
+            IEasyQuestions easyQuestions = new LeetCodeQuestions.EasyQuestions();
+            int[] expected = new int[] {0,1};
+            //assert
+            Assert.Equal(expected.ToString(), easyQuestions.TwoSum(prices, target).ToString());
+        }
     }
 }

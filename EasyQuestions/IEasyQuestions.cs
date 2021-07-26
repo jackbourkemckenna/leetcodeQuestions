@@ -7,6 +7,6 @@
         char NextGreatestLetter(char[] letters, char target);
 
         int MaxProfit(int[] prices);
-
+        int[] TwoSum(int[] nums, int target);
     }
 }

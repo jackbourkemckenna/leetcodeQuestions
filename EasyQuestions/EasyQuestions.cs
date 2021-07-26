@@ -28,9 +28,9 @@ namespace LeetCodeQuestions
           Find Smallest Letter Greater Than Target
          Given a characters array letters that is sorted in non-decreasing order and a character target, return the smallest character in the array that is larger than target.
 
-Note that the letters wrap around.
+            Note that the letters wrap around.
 
-For example, if target == 'z' and letters == ['a', 'b'], the answer is 'a'.
+            For example, if target == 'z' and letters == ['a', 'b'], the answer is 'a'.
 
 
        add target to array
@@ -79,8 +79,6 @@ For example, if target == 'z' and letters == ['a', 'b'], the answer is 'a'.
 
                 if (prices[Lpointer] < prices[Rpointer])
                 {
-                    var temp = prices[Rpointer];
-                    var temp2 = prices[Lpointer];
                     var profit = prices[Rpointer] - prices[Lpointer];
 
                     maxProfit = Math.Max(maxProfit, profit);
@@ -93,6 +91,28 @@ For example, if target == 'z' and letters == ['a', 'b'], the answer is 'a'.
                 Rpointer = 1 + Rpointer;
             }
             return maxProfit; 
+        }
+
+        public int[] TwoSum(int[] nums, int target)
+        {
+            Dictionary<int, int> dict = new Dictionary<int, int>();
+            int[] arr = new int[2];
+            for (int i = 0; i < nums.Length; i++)
+            {
+                int Value = target - nums[i];
+                if (dict.ContainsKey(Value))
+                    if (i != dict[Value])
+                    {
+                        {
+                            arr[0] = dict[Value];
+                            arr[1] = i;
+                            return arr;
+                        }
+                    }
+                dict.Add(nums[i],i);
+             //dict[nums[i]] = i;
+            }
+            return arr;
         }
 
 
