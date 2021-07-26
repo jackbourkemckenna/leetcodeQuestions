@@ -1,0 +1,13 @@
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\netcoreapp3.1\LeetCodeQuestions.exe
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\netcoreapp3.1\LeetCodeQuestions.deps.json
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\netcoreapp3.1\LeetCodeQuestions.runtimeconfig.json
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\netcoreapp3.1\LeetCodeQuestions.runtimeconfig.dev.json
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\netcoreapp3.1\LeetCodeQuestions.dll
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\bin\Debug\netcoreapp3.1\LeetCodeQuestions.pdb
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\netcoreapp3.1\LeetCodeQuestions.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\netcoreapp3.1\LeetCodeQuestions.AssemblyInfoInputs.cache
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\netcoreapp3.1\LeetCodeQuestions.AssemblyInfo.cs
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\netcoreapp3.1\LeetCodeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\netcoreapp3.1\LeetCodeQuestions.dll
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\netcoreapp3.1\LeetCodeQuestions.pdb
+C:\Users\Jack\source\repos\LeetCodeQuestions\LeetCodeQuestions\obj\Debug\netcoreapp3.1\LeetCodeQuestions.genruntimeconfig.cache

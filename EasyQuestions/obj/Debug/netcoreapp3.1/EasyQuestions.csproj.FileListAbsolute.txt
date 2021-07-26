@@ -1,0 +1,9 @@
+C:\Users\Jack\source\repos\LeetCodeQuestions\EasyQuestions\bin\Debug\netcoreapp3.1\EasyQuestions.deps.json
+C:\Users\Jack\source\repos\LeetCodeQuestions\EasyQuestions\bin\Debug\netcoreapp3.1\EasyQuestions.dll
+C:\Users\Jack\source\repos\LeetCodeQuestions\EasyQuestions\bin\Debug\netcoreapp3.1\EasyQuestions.pdb
+C:\Users\Jack\source\repos\LeetCodeQuestions\EasyQuestions\obj\Debug\netcoreapp3.1\EasyQuestions.csproj.AssemblyReference.cache
+C:\Users\Jack\source\repos\LeetCodeQuestions\EasyQuestions\obj\Debug\netcoreapp3.1\EasyQuestions.AssemblyInfoInputs.cache
+C:\Users\Jack\source\repos\LeetCodeQuestions\EasyQuestions\obj\Debug\netcoreapp3.1\EasyQuestions.AssemblyInfo.cs
+C:\Users\Jack\source\repos\LeetCodeQuestions\EasyQuestions\obj\Debug\netcoreapp3.1\EasyQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Jack\source\repos\LeetCodeQuestions\EasyQuestions\obj\Debug\netcoreapp3.1\EasyQuestions.dll
+C:\Users\Jack\source\repos\LeetCodeQuestions\EasyQuestions\obj\Debug\netcoreapp3.1\EasyQuestions.pdb
